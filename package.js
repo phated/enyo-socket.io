@@ -1,4 +1,4 @@
 enyo.depends(
-  '/socket.io/socket.io.js',
-  'source/Socket.js'
+  'support/socket.io/socket.io-client/dist/socket.io.js',
+  'dist/Socket.js'
 );
