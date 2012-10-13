@@ -1,4 +1,4 @@
 enyo.depends(
-  'support/socket.io/socket.io-client/dist/socket.io.js',
+  '//cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.10/socket.io.min.js',
   'dist/Socket.js'
 );
