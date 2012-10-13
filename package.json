@@ -9,5 +9,11 @@
       "type": "MIT",
       "url": "https://github.com/phated/enyo-socket.io/blob/master/LICENSE"
     }
-  ]
+  ],
+  "scripts": {
+    "install": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "0.3.11"
+  }
 }
