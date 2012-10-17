@@ -4,6 +4,7 @@
   <script src="package.js"></script>
   <script>
     var socket = new Socket({
+      address: 'http://127.0.0.1:2233',
       init: {
         on: {
           news: function(data){
